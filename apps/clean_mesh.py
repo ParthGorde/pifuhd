@@ -1,5 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
-
 import os
 import argparse
 import trimesh
