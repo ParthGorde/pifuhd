@@ -1,6 +1,5 @@
 '''
-Copyright (C) 2019 NVIDIA Corporation. Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu.
-BSD License. All rights reserved. 
+Copyright (C) 2019 NVIDIA Corporation. BSD License. All rights reserved. 
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
